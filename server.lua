@@ -1,5 +1,5 @@
 --[[
-Made by C. Wilshire#5885 for use on fivem server discord.gg/BrmN6EA
+Made by C. Wilshire#5885 for use on fivem server DHSRP (discord.gg/BrmN6EA)
 Use/modification is permitted with proper credit.
 Credits for project are found in README.md
 ]]
