@@ -1,0 +1,2 @@
+# WilshireDied
+FiveM WilshireDied Resource
