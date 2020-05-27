@@ -1,3 +1,9 @@
+--[[
+Made by C. Wilshire#5885 for use on fivem server discord.gg/BrmN6EA
+Use/modification is permitted with proper credit.
+Credits for project are found in README.md
+]]
+
 RegisterNetEvent('wd:allowRespawn')
 RegisterNetEvent('wd:allowRevive') 
 RegisterNetEvent('wd:toggleDeath')
